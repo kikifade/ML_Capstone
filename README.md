@@ -7,4 +7,4 @@ Trained model : https://drive.google.com/file/d/188gdv5nLEQfFAnCqHSmq9bX6FRkh34E
 
 Dataset : https://drive.google.com/drive/folders/1DV-mZ2Vk2M_zjpsFZ1mDzOI792Bx6pNX?usp=sharing
 
-The Code will work if the dataset folder are located on the same directory with the "Create Model.ipynb"
+The Code will work if the "Dataset" folder are located on the same directory with the "Create Model.ipynb"
