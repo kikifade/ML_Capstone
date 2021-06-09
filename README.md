@@ -1,7 +1,7 @@
 # ML_Capstone
 ML part for Capstone Project
 
-Because of limited size for upload the model, the trained model and dataset are on google drive with following link:
+Because of limited of file size, the trained model and dataset are on google drive with following link:
 
 Trained model : https://drive.google.com/file/d/188gdv5nLEQfFAnCqHSmq9bX6FRkh34E_/view?usp=sharing
 
